@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\bin\Debug\DateTime Picker.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\bin\Debug\DateTime Picker.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\bin\Debug\DateTime Picker.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime_Picker.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime_Picker.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\DateTime Picker\obj\Debug\DateTime Picker.pdb
